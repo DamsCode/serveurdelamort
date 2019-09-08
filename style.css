@@ -1,3 +1,5 @@
 body {
     background-image: url('img/48a5c12f166faae847d00987c1ff6f06.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
